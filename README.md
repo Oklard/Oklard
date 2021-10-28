@@ -15,5 +15,5 @@
 - 👇  You can reach me @:
 <section>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" class="logos">
-  <a href="https://www.linkedin.com/in/pauloroberto99/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn" class="logos"></a>
+  <a href="https://www.linkedin.com/in/pauloroberto99/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"alt="LinkedIn" class="logos"></a>
 </section> 
