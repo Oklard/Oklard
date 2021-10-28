@@ -13,6 +13,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Oklard&show_icons=true&theme=onedark&locale=en&layout=compact%27">
 </div>
 - 👇  You can reach me @:
-  <div>
+  <div style='display: inlineblock'>
     <a href='https://www.linkedin.com/in/pauloroberto99/'><img align='center' alt'Linkedinlogo' src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'/></a>
   </div>
