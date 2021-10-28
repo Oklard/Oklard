@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Paulo Roberto (pt-br, en)
 - 🌱 I’m currently learning back-end on JavaScript and python; 
-- 🤝 Currently looking to collaborate on projects that we'll give me experience so I can be a even better professional;
+- 🤝 Looking foward to collaborate on projects that we'll give me experience so I can be a even better professional;
 - 🤔 looking for help with starting my career; 
 - 😄 Pronouns: He/Him;
 - ✉️ gmail: paulorobertofjr99@gmail.com;
