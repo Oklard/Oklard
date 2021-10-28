@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oklard&show_icons=true&theme=onedark&locale=en&layout=compact%27">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oklard&show_icons=true&theme=onedark&locale=en&layout=compact%27">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oklard&show_icons=true&theme=onedark&locale=en&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Oklard&show_icons=true&theme=onedark&locale=en&layout=compact%27">
 </div>
 - 👇  You can reach me @:
 <section>
