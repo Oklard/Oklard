@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Paulo Roberto (pt-br, en)
-- 🌱 I’m currently learning back-end on JavaScript and python; 
-- 🤝 Looking foward to collaborate on projects that we'll give me experience so I can be a even better professional;
-- 🤔 looking for help with starting my career; 
-- 😄 Pronouns: He/Him;
+- I worked as a full stack developer at Idera for almost an Year, where I made reports using DevExpress, testing, front and back end development, and helped pretty much where I was needed;
+- Known IDE: Visual studio, Visual studio code, jetBrains, Eclipse Luna;
+- I would like to know even more about what i'm used to and also to learn new things; 
+- Always happy to help if I can and always apreciate when someone have something to teach, good comunication and social skills;
+- Looking foward to develop even further my carreer in computer science; 
 - ✉️ gmail: paulorobertofjr99@gmail.com;
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
